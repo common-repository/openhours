@@ -1,0 +1,223 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP OpenHours\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-10 19:57+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.2.1"
+
+#: wp-openhours.php:143
+msgid " (wordpress local time +10:00)"
+msgstr ""
+
+#: wp-openhours.php:144
+msgid " (wordpress local time +11:00)"
+msgstr ""
+
+#: wp-openhours.php:145
+msgid " (wordpress local time +12:00)"
+msgstr ""
+
+#: wp-openhours.php:134
+msgid " (wordpress local time +1:00)"
+msgstr ""
+
+#: wp-openhours.php:135
+msgid " (wordpress local time +2:00)"
+msgstr ""
+
+#: wp-openhours.php:136
+msgid " (wordpress local time +3:00)"
+msgstr ""
+
+#: wp-openhours.php:137
+msgid " (wordpress local time +4:00)"
+msgstr ""
+
+#: wp-openhours.php:138
+msgid " (wordpress local time +5:00)"
+msgstr ""
+
+#: wp-openhours.php:139
+msgid " (wordpress local time +6:00)"
+msgstr ""
+
+#: wp-openhours.php:140
+msgid " (wordpress local time +7:00)"
+msgstr ""
+
+#: wp-openhours.php:141
+msgid " (wordpress local time +8:00)"
+msgstr ""
+
+#: wp-openhours.php:142
+msgid " (wordpress local time +9:00)"
+msgstr ""
+
+#: wp-openhours.php:123
+msgid " (wordpress local time -10:00)"
+msgstr ""
+
+#: wp-openhours.php:122
+msgid " (wordpress local time -11:00)"
+msgstr ""
+
+#: wp-openhours.php:121
+msgid " (wordpress local time -12:00)"
+msgstr ""
+
+#: wp-openhours.php:132
+msgid " (wordpress local time -1:00)"
+msgstr ""
+
+#: wp-openhours.php:131
+msgid " (wordpress local time -2:00)"
+msgstr ""
+
+#: wp-openhours.php:130
+msgid " (wordpress local time -3:00)"
+msgstr ""
+
+#: wp-openhours.php:129
+msgid " (wordpress local time -4:00)"
+msgstr ""
+
+#: wp-openhours.php:128
+msgid " (wordpress local time -5:00)"
+msgstr ""
+
+#: wp-openhours.php:127
+msgid " (wordpress local time -6:00)"
+msgstr ""
+
+#: wp-openhours.php:126
+msgid " (wordpress local time -7:00)"
+msgstr ""
+
+#: wp-openhours.php:125
+msgid " (wordpress local time -8:00)"
+msgstr ""
+
+#: wp-openhours.php:124
+msgid " (wordpress local time -9:00)"
+msgstr ""
+
+#: wp-openhours.php:938 wp-openhours.php:962 wp-openhours.php:986
+#: wp-openhours.php:1010 wp-openhours.php:1034 wp-openhours.php:1058
+#: wp-openhours.php:1083
+msgid "closed"
+msgstr ""
+
+#: wp-openhours.php:115
+msgid "Current local time"
+msgstr ""
+
+#: wp-openhours.php:93
+msgid "Display mode"
+msgstr ""
+
+#: wp-openhours.php:99
+msgid "Dynamic Opened/Closed text"
+msgstr ""
+
+#: wp-openhours.php:636 wp-openhours.php:1044
+msgid "Friday"
+msgstr ""
+
+#: wp-openhours.php:166
+msgid "g A (eg: 5PM)"
+msgstr ""
+
+#: wp-openhours.php:167
+msgid "g A (eg: 5pm)"
+msgstr ""
+
+#: wp-openhours.php:164
+msgid "g:i A (eg: 5:00PM)"
+msgstr ""
+
+#: wp-openhours.php:165
+msgid "g:i a (eg: 5:00pm)"
+msgstr ""
+
+#: wp-openhours.php:169
+msgid "H.i (eg: 17.00)"
+msgstr ""
+
+#: wp-openhours.php:168
+msgid "H:i (eg: 17:00)"
+msgstr ""
+
+#. Author of the plugin
+msgid "Matt"
+msgstr ""
+
+#: wp-openhours.php:496 wp-openhours.php:948
+msgid "Monday"
+msgstr ""
+
+#: wp-openhours.php:100
+msgid "Opening hours timetable (with closed days)"
+msgstr ""
+
+#: wp-openhours.php:101
+msgid "Opening hours timetable (without closed days)"
+msgstr ""
+
+#: wp-openhours.php:98 wp-openhours.php:120 wp-openhours.php:163
+msgid "Please select"
+msgstr ""
+
+#: wp-openhours.php:670 wp-openhours.php:1068
+msgid "Saturday"
+msgstr ""
+
+#: wp-openhours.php:704 wp-openhours.php:1093
+msgid "Sunday"
+msgstr ""
+
+#: wp-openhours.php:189
+msgid "Text/Html (status = closed):"
+msgstr ""
+
+#: wp-openhours.php:183
+msgid "Text/Html (status = opened):"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin displays your office(s) opening hours in real time."
+msgstr ""
+
+#: wp-openhours.php:602 wp-openhours.php:1020
+msgid "Thursday"
+msgstr ""
+
+#: wp-openhours.php:159
+msgid "Time format display"
+msgstr ""
+
+#: wp-openhours.php:531 wp-openhours.php:972
+msgid "Tuesday"
+msgstr ""
+
+#: wp-openhours.php:566 wp-openhours.php:996
+msgid "Wednesday"
+msgstr ""
+
+#: wp-openhours.php:87
+msgid "Widget Title"
+msgstr ""
+
+#. Name of the plugin
+#: wp-openhours.php:21
+msgid "WP OpenHours"
+msgstr ""
